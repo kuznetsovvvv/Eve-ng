@@ -63,9 +63,12 @@
 # Проверка работы: 
 Проверка ping до интернета(внешний web-server):
 <img width="692" height="187" alt="image" src="https://github.com/user-attachments/assets/7257dd67-72e0-445d-a3cd-29eb44703caa" />
+
 Проверка доступности внутреннего веб-сервера из локальной сети:
 <img width="692" height="178" alt="image" src="https://github.com/user-attachments/assets/d2986c8e-b704-48e1-b856-6112346a8378" />
+
 Проверка настройки dhcp сервера на роутере:
 <img width="693" height="382" alt="image" src="https://github.com/user-attachments/assets/0b1d6c29-a36d-4699-b666-caf4ca7bbde2" />
+
 Проверка доступа из сети HR к Маркетингу:
 <img width="692" height="433" alt="image" src="https://github.com/user-attachments/assets/1b05620f-bf3b-42a5-bb9c-70c6adb7ab56" />
