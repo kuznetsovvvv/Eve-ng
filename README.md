@@ -57,7 +57,7 @@
 |                    | e0/0 — trunk        | Switch_Sphere    |
 |                    | e0/1 — маршрутизация | ISP              |
 
-🔧 **Router hostname:**
+🔧 **Топология сети:**
 <img width="856" height="752" alt="image" src="https://github.com/user-attachments/assets/183dd886-6758-4ee9-9346-6be7769d3077" />
 
 # Проверка работы: 
